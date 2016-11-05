@@ -94,7 +94,7 @@
 <!-- End of C# Content -->
 
 <!-- VB Content -->
-# [Visual Basic Guide](visual-basic\TOC.md)
+# [Visual Basic Guide](visual-basic/TOC.md)
 <!-- End of VB Content -->
 
 <!-- F# Content -->
