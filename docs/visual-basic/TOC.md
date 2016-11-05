@@ -2,6 +2,6 @@
 # [Walkthroughs](walkthroughs.md)
 ## [Getting Started](index.md)
 ## [Developing Applications](developing-apps/index.md)
-## [Programming Guide](programming-guide/index.md)
+## [Programming Guide](visual-basic/programming-guide)
 ## [Visual Basic Language Specification](reference)
 ## [Visual Basic Language Reference](language-reference/index.md)
