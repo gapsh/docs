@@ -73,7 +73,7 @@
     "externalReference": [
     ],
     "globalMetadata": {
-      "breadcrumb_path": "/dotnet/toc.json",
+      "breadcrumb_path": "~/_breadcrumb/toc.yml",
       "_displayLangs": ["csharp"],
       "author": "dotnet-bot"
     },
