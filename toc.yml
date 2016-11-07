@@ -6,9 +6,6 @@
     href: /dotnet/
     homepage: /dotnet/index
     items:
-    - name: Documentation
-      href: /dotnet/articles/
-      homepage: /dotnet/articles/welcome
     - name: About .NET
       href: /dotnet/articles/about/
       homepage: /dotnet/articles/about/index
