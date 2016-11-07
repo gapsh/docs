@@ -2,13 +2,34 @@
   href: /
   homepage: /
   items:
-  - name: .NET Home
+  - name: .NET
     href: /dotnet/
     homepage: /dotnet/index
     items:
     - name: Documentation
       href: /dotnet/articles/
       homepage: /dotnet/articles/welcome
+    - name: About .NET
+      href: /dotnet/articles/about/
+      homepage: /dotnet/articles/about/index
+    - name: C# Guide
+      href: /dotnet/articles/csharp/
+      homepage: /dotnet/articles/csharp/index
+    - name: F# Guide
+      href: /dotnet/articles/fsharp/
+    - name: Visual Basic Guide
+      href: /dotnet/articles/visual-basic/
+      homepage: /dotnet/articles/visual-basic/index
+      homepage: /dotnet/articles/fsharp/index
+    - name: .NET Standard
+      href: /dotnet/articles/standard/
+      homepage: /dotnet/articles/standard/index
+    - name: .NET Core Guide
+      href: /dotnet/articles/core/
+      homepage: /dotnet/articles/core/index
+    - name: .NET Framework
+      href: /dotnet/articles/framework/
+      homepage: /dotnet/articles/framework/index
     - name: API reference
       href: /dotnet/core/api/
       homepage: /dotnet/core/api/index
