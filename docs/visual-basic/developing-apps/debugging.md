@@ -43,12 +43,12 @@ This page provides links to documentation for the debugging features that are bu
   
 |To|See|
 |-|-|  
-|Start to debug a Visual Studio project, attach to a process, break into code, step through code, run to the cursor, run to a function on the call stack, set the next statement, step through Just My Code, stop debugging, restart debugging, or detach from a debugged process.|[Navigating through Code with the Debugger](/visual-studio/debugger/navigating-through-code-with-the-debugger)|  
+|Start to debug a Visual Studio project, attach to a process, break into code, step through code, run to the cursor, run to a function on the call stack, set the next statement, step through Just My Code, stop debugging, restart debugging, or detach from a debugged process.|[Navigating through Code with the Debugger](/visualstudio/debugger/navigating-through-code-with-the-debugger)|  
 |Specify the configurations for the debug and release versions of a program.|[Debug and Release Project Configurations](http://msdn.microsoft.com/en-us/0440b300-0614-4511-901a-105b771b236e)|  
 |Set start options (command-line arguments, working directory, remote machine)|[NIB: How to: Set Start Options for Application Debugging](http://msdn.microsoft.com/en-us/ce792058-7bac-4dd6-858b-466e872687b8)|  
 |Debug at design time.|[Walkthrough: Debugging at Design Time](../Topic/Walkthrough:%20Debugging%20at%20Design%20Time.md)|  
-|Enable just-in-time debugging, which launches the Visual Studio debugger when a program running outside Visual Studio encounters a fatal error.|[Just-In-Time Debugging](/visual-studio/debugger/just-in-time-debugging-in-visual-studio)|  
-|Set breakpoints for source lines, assembly instructions, and call stack function. Specify conditions, hit counts, and execution location.|[Using Breakpoints](/visual-studio/debugger/using-breakpoints)|  
+|Enable just-in-time debugging, which launches the Visual Studio debugger when a program running outside Visual Studio encounters a fatal error.|[Just-In-Time Debugging](/visualstudio/debugger/just-in-time-debugging-in-visual-studio)|  
+|Set breakpoints for source lines, assembly instructions, and call stack function. Specify conditions, hit counts, and execution location.|[Using Breakpoints](/visualstudio/debugger/using-breakpoints)|  
   
 ## Handling Exceptions  
  The following table lists debugging tasks involving exception handling and points to their associated Help pages.  
@@ -60,7 +60,7 @@ This page provides links to documentation for the debugging features that are bu
 |Break on first-chance exceptions.|[How to: Break When an Exception is Thrown](../Topic/How%20to:%20Break%20When%20an%20Exception%20is%20Thrown.md)|  
 |Use the exception assistant.|[How to: Correct Run-Time Errors with the Exception Assistant](../Topic/How%20to:%20Correct%20Run-Time%20Errors%20with%20the%20Exception%20Assistant.md)|  
 |Add a new exception.|[How to: Add New Exceptions](../Topic/How%20to:%20Add%20New%20Exceptions.md)|  
-|Continue execution after an exception has been thrown.|[Continuing Execution After an Exception](/visual-studio/debugger/continuing-execution-after-an-exception)|  
+|Continue execution after an exception has been thrown.|[Continuing Execution After an Exception](/visualstudio/debugger/continuing-execution-after-an-exception)|  
   
 ## Edit and Continue  
  The following table lists debugging tasks involving Edit and Continue and points to their associated Help pages.  
@@ -85,13 +85,13 @@ This page provides links to documentation for the debugging features that are bu
   
 ## See Also  
  [Walkthrough: Debugging a Windows Form](../Topic/Walkthrough:%20Debugging%20a%20Windows%20Form.md)   
- [Debugging Managed Code](/visual-studio/debugger/debugging-managed-code)   
- [Debugging Native Code](/visual-studio/debugger/debugging-native-code)   
- [Debugging Web Applications and Script](/visual-studio/debugger/debugging-web-applications-and-script)   
- [Debugging User Interface Reference](/visual-studio/debugger/debugging-user-interface-reference)   
- [Debugger Settings and Preparation](/visual-studio/debugger/debugger-settings-and-preparation)   
- [Debugger Basics](/visual-studio/debugger/debugger-basics)   
- [Navigating through Code with the Debugger](/visual-studio/debugger/navigating-through-code-with-the-debugger)   
- [IntelliTrace](/visual-studio/debugger/intellitrace)   
+ [Debugging Managed Code](/visualstudio/debugger/debugging-managed-code)   
+ [Debugging Native Code](/visualstudio/debugger/debugging-native-code)   
+ [Debugging Web Applications and Script](/visualstudio/debugger/debugging-web-applications-and-script)   
+ [Debugging User Interface Reference](/visualstudio/debugger/debugging-user-interface-reference)   
+ [Debugger Settings and Preparation](/visualstudio/debugger/debugger-settings-and-preparation)   
+ [Debugger Basics](/visualstudio/debugger/debugger-basics)   
+ [Navigating through Code with the Debugger](/visualstudio/debugger/navigating-through-code-with-the-debugger)   
+ [IntelliTrace](/visualstudio/debugger/intellitrace)   
  [C#, F#, and Visual Basic Project Types](../Topic/Debugging%20Preparation:%20C%23,%20F%23,%20and%20Visual%20Basic%20Project%20Types.md)   
  [How to: Apply Edits in Break Mode with Edit and Continue](../Topic/How%20to:%20Apply%20Edits%20in%20Break%20Mode%20with%20Edit%20and%20Continue.md)

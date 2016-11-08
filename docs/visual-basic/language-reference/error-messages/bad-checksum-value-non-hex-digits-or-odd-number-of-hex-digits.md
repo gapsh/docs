@@ -41,7 +41,7 @@ A checksum value contains invalid hexadecimal digits or has an odd number of dig
   
  When ASP.NET generates a Visual Basic source file (extension .vb), it calculates a checksum and places it in a hidden source file identified by `#externalchecksum`. It is possible for a user generating a .vb file to do this also, but this process is best left to internal use.  
   
- By default, this message is a warning. For information on hiding warnings or treating warnings as errors, see [Configuring Warnings in Visual Basic](/visual-studio/ide/configuring-warnings-in-visual-basic).  
+ By default, this message is a warning. For information on hiding warnings or treating warnings as errors, see [Configuring Warnings in Visual Basic](/visualstudio/ide/configuring-warnings-in-visual-basic).  
   
  **Error ID:** BC42033  
   
@@ -55,4 +55,4 @@ A checksum value contains invalid hexadecimal digits or has an odd number of dig
   
 ## See Also  
  [ASP.NET Overview](../Topic/ASP.NET%20Overview.md)   
- [Talk to Us](/visual-studio/ide/talk-to-us)
+ [Talk to Us](/visualstudio/ide/talk-to-us)

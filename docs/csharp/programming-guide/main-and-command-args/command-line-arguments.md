@@ -91,7 +91,7 @@ long num = Convert.ToInt64(s);
 5.  The command produces this output: `The factorial of 3 is 6.`  
   
 > [!NOTE]
->  When running an application in Visual Studio, you can specify command-line arguments in the [Debug Page, Project Designer](/visual-studio/ide/reference/debug-page-project-designer).  
+>  When running an application in Visual Studio, you can specify command-line arguments in the [Debug Page, Project Designer](/visualstudio/ide/reference/debug-page-project-designer).  
   
  For more examples about how to use command-line arguments, see [How to: Create and Use Assemblies Using the Command Line](../Topic/How%20to:%20Create%20and%20Use%20Assemblies%20Using%20the%20Command%20Line%20\(C%23%20and%20Visual%20Basic\).md).  
   

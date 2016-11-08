@@ -104,7 +104,7 @@ An important part of [!INCLUDE[vbprvb](../../../csharp/programming-guide/concept
   
  When you update your application, you publish a new deployment manifest and a new copy of your application to your Web server. [!INCLUDE[ndptecclick](../../../visual-basic/developing-apps/printing/includes/ndptecclick_md.md)] detects that there is an update available and upgrades the user's installation; no custom programming is required to update old assemblies.  
   
- For a full introduction to [!INCLUDE[ndptecclick](../../../visual-basic/developing-apps/printing/includes/ndptecclick_md.md)], see [ClickOnce Security and Deployment](/visual-studio/deployment/clickonce-security-and-deployment). For step-by-step information about using these features, see the following Help topics:  
+ For a full introduction to [!INCLUDE[ndptecclick](../../../visual-basic/developing-apps/printing/includes/ndptecclick_md.md)], see [ClickOnce Security and Deployment](/visualstudio/deployment/clickonce-security-and-deployment). For step-by-step information about using these features, see the following Help topics:  
   
 |To|See|  
 |--------|---------|  

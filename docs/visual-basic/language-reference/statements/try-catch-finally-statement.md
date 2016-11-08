@@ -100,7 +100,7 @@ End Try
  Local variables from a `Try` block are not available in a `Catch` block because they are separate blocks. If you want to use a variable in more than one block, declare the variable outside the `Try...Catch...Finally` structure.  
   
 > [!TIP]
->  The `Try…Catch…Finally` statement is available as an IntelliSense code snippet. In the Code Snippets Manager, expand **Code Patterns - If, For Each, Try Catch, Property, etc**, and then **Error Handling (Exceptions)**. For more information, see [Code Snippets](/visual-studio/ide/code-snippets).  
+>  The `Try…Catch…Finally` statement is available as an IntelliSense code snippet. In the Code Snippets Manager, expand **Code Patterns - If, For Each, Try Catch, Property, etc**, and then **Error Handling (Exceptions)**. For more information, see [Code Snippets](/visualstudio/ide/code-snippets).  
   
 ## Finally Block  
  If you have one or more statements that must run before you exit the `Try` structure, use a `Finally` block. Control passes to the `Finally` block just before it passes out of the `Try…Catch` structure. This is true even if an exception occurs anywhere inside the `Try` structure.  
@@ -208,6 +208,6 @@ End Try
  <xref:System.Exception>   
  [Exit Statement](../../../visual-basic/language-reference/statements/exit-statement.md)   
  [On Error Statement](../../../visual-basic/language-reference/statements/on-error-statement.md)   
- [Best Practices for Using Code Snippets](/visual-studio/ide/best-practices-for-using-code-snippets)   
+ [Best Practices for Using Code Snippets](/visualstudio/ide/best-practices-for-using-code-snippets)   
  [Exception Handling](../Topic/Exception%20Handling%20\(Task%20Parallel%20Library\).md)   
  [Throw Statement](../../../visual-basic/language-reference/statements/throw-statement.md)

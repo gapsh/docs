@@ -26,7 +26,7 @@ translation.priority.mt:
 The Visual Studio integrated development environment (IDE) provides the following features that support LINQ application development:  
   
 ## Object Relational Designer  
- The Object Relational Designer is a visual design tool that you can use in [LINQ to SQL](../Topic/LINQ%20to%20SQL.md) applications to generate classes in Visual Basic that represent the relational data in an underlying database. For more information, see [LINQ to SQL Tools in Visual Studio](/visual-studio/data-tools/linq-to-sql-tools-in-visual-studio2).  
+ The Object Relational Designer is a visual design tool that you can use in [LINQ to SQL](../Topic/LINQ%20to%20SQL.md) applications to generate classes in Visual Basic that represent the relational data in an underlying database. For more information, see [LINQ to SQL Tools in Visual Studio](/visualstudio/data-tools/linq-to-sql-tools-in-visual-studio2).  
   
 ## SQLMetal Command Line Tool  
  SQLMetal is a command-line tool that can be used in build processes to generate classes from existing databases for use in LINQ to SQL  applications. For more information, see [SqlMetal.exe (Code Generation Tool)](../Topic/SqlMetal.exe%20\(Code%20Generation%20Tool\).md).  
@@ -35,7 +35,7 @@ The Visual Studio integrated development environment (IDE) provides the followin
  The Visual Basic code editor supports LINQ extensively with IntelliSense and formatting capabilities.  
   
 ## Visual Studio Debugger Support  
- The Visual Studio debugger supports debugging of query expressions. For more information, see [Debugging LINQ](/visual-studio/debugger/debugging-linq).  
+ The Visual Studio debugger supports debugging of query expressions. For more information, see [Debugging LINQ](/visualstudio/debugger/debugging-linq).  
   
 ## See Also  
  [Language-Integrated Query (LINQ) (Visual Basic)](../../../../visual-basic/programming-guide/concepts/linq/index.md)
