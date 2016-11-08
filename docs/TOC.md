@@ -82,6 +82,13 @@
 ### [Documenting your code](csharp/codedoc.md) 
 ## [🔧 Using the .NET Compiler Platform](csharp/roslyn/index.md)
 ## [🔧 Syntax Reference](csharp/syntax.md)
+
+## [C# Programming Guide](csharp/programming-guide/index.md)
+### [Inside a C# Program](csharp/programming-guide/inside-a-program/index.md)
+#### [Hello World -- Your First Program](csharp/programming-guide/inside-a-program/hello-world-your-first-program.md)
+#### [General Structure of a C# Program](csharp/programming-guide/inside-a-program/general-structure-of-a-csharp-program.md)
+#### [C# Coding Conventions](csharp/programming-guide/inside-a-program/coding-conventions.md)
+
 <!--
     The C# Reference section can be ported from here: 
     https://msdn.microsoft.com/en-us/library/618ayhy6.aspx
@@ -127,7 +134,7 @@
 ###### [How to: Dial Modems Attached to Serial Ports](visual-basic/developing-apps/programming/computer-resources/how-to-dial-modems-attached-to-serial-ports.md)
 ###### [How to: Send Strings to Serial Ports](visual-basic/developing-apps/programming/computer-resources/how-to-send-strings-to-serial-ports.md)
 ###### [How to: Receive Strings From Serial Ports](visual-basic/developing-apps/programming/computer-resources/how-to-receive-strings-from-serial-ports.md)
-###### [Port Operations in the .NET Framework with Visual Basic](visual-basic/developing-apps/programming/computer-resources/port-operations-in-the-net-framework.md)
+###### [Port Operations in the .NET Framework](visual-basic/developing-apps/programming/computer-resources/port-operations-in-the-net-framework.md)
 ##### [Reading from and Writing to the Registry](visual-basic/developing-apps/programming/computer-resources/reading-from-and-writing-to-the-registry.md)
 ###### [How to: Create a Registry Key and Set Its Value](visual-basic/developing-apps/programming/computer-resources/how-to-create-a-registry-key-and-set-its-value.md)
 ###### [How to: Read a Value from a Registry Key](visual-basic/developing-apps/programming/computer-resources/how-to-read-a-value-from-a-registry-key.md)
@@ -193,8 +200,8 @@
 ###### [Parsing Text Files with the TextFieldParser Object](visual-basic/developing-apps/programming/drives-directories-files/parsing-text-files-with-the-textfieldparser-object.md)
 ###### [File Encodings](visual-basic/developing-apps/programming/drives-directories-files/file-encodings.md)
 ###### [Troubleshooting: Reading from and Writing to Text Files](visual-basic/developing-apps/programming/drives-directories-files/troubleshooting-reading-from-and-writing-to-text-files.md)
-##### [Basics of .NET Framework File I-O and the File System](visual-basic/developing-apps/programming/drives-directories-files/basics-of-net-framework-file-io-and-the-file-system.md)
-###### [Classes Used in .NET Framework File I-O and the File System](visual-basic/developing-apps/programming/drives-directories-files/classes-used-in-net-framework-file-io-and-the-file-system.md)
+##### [Basics of .NET Framework File I/O and the File System](visual-basic/developing-apps/programming/drives-directories-files/basics-of-net-framework-file-io-and-the-file-system.md)
+###### [Classes Used in .NET Framework File I/O and the File System](visual-basic/developing-apps/programming/drives-directories-files/classes-used-in-net-framework-file-io-and-the-file-system.md)
 ##### [Walkthrough: Manipulating Files by Using .NET Framework Methods](visual-basic/developing-apps/programming/drives-directories-files/walkthrough-manipulating-files-by-using-net-framework-methods.md)
 ##### [Walkthrough: Manipulating Files and Directories](visual-basic/developing-apps/programming/drives-directories-files/walkthrough-manipulating-files-and-directories.md)
 
@@ -1373,6 +1380,8 @@
 #### [Compiler Options Listed by Category](visual-basic/reference/command-line-compiler/compiler-options-listed-by-category.md)
 ### [.NET Framework Reference Information](visual-basic/reference/net-framework-reference-information.md)
 ### [Language Specification](visual-basic/reference/language-specification.md)
+## [Sample Applications](visual-basic/sample-applications.md)
+## [Walkthroughs](visual-basic/walkthroughs.md)
 
 <!-- End of VB Content -->
 
