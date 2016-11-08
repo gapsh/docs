@@ -60,9 +60,8 @@ Provides properties and classes for accessing the application's resources.
   
 -   The category determines the type of the property:  
   
-|||  
-|-|-|  
 |Category|Property data type|  
+|-|-|  
 |**Strings**|[String](../../../visual-basic/language-reference/data-types/string-data-type.md)|  
 |**Images**|<xref:System.Drawing.Bitmap>|  
 |**Icons**|<xref:System.Drawing.Icon>|  

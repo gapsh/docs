@@ -53,9 +53,8 @@ Causes the compiler to make COM type information in the specified assemblies ava
   
 ## Arguments  
   
-|||  
-|-|-|  
 |Term|Definition|  
+|-|-|  
 |`fileList`|Required. Comma-delimited list of assembly file names. If the file name contains a space, enclose the name in quotation marks.|  
   
 ## Remarks  

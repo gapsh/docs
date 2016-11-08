@@ -41,9 +41,8 @@ This page provides links to documentation for the debugging features that are bu
 ## Controlling Execution  
  The following table lists debugging tasks involving execution control and provides links to their associated Help pages.  
   
-|||  
+|To|See|
 |-|-|  
-|To|See|  
 |Start to debug a Visual Studio project, attach to a process, break into code, step through code, run to the cursor, run to a function on the call stack, set the next statement, step through Just My Code, stop debugging, restart debugging, or detach from a debugged process.|[Navigating through Code with the Debugger](/visual-studio/debugger/navigating-through-code-with-the-debugger)|  
 |Specify the configurations for the debug and release versions of a program.|[Debug and Release Project Configurations](http://msdn.microsoft.com/en-us/0440b300-0614-4511-901a-105b771b236e)|  
 |Set start options (command-line arguments, working directory, remote machine)|[NIB: How to: Set Start Options for Application Debugging](http://msdn.microsoft.com/en-us/ce792058-7bac-4dd6-858b-466e872687b8)|  
@@ -54,9 +53,8 @@ This page provides links to documentation for the debugging features that are bu
 ## Handling Exceptions  
  The following table lists debugging tasks involving exception handling and points to their associated Help pages.  
   
-|||  
-|-|-|  
 |To|See|  
+|-|-|  
 |Break on unhandled exceptions.|[How to: Break on User-Unhandled Exceptions](../Topic/How%20to:%20Break%20on%20User-Unhandled%20Exceptions.md)|  
 |Break when an exception is thrown.|[How to: Break When an Exception is Thrown](../Topic/How%20to:%20Break%20When%20an%20Exception%20is%20Thrown.md)|  
 |Break on first-chance exceptions.|[How to: Break When an Exception is Thrown](../Topic/How%20to:%20Break%20When%20an%20Exception%20is%20Thrown.md)|  
@@ -67,9 +65,8 @@ This page provides links to documentation for the debugging features that are bu
 ## Edit and Continue  
  The following table lists debugging tasks involving Edit and Continue and points to their associated Help pages.  
   
-|||  
-|-|-|  
 |To|See|  
+|-|-| 
 |Turn Edit and Continue off and on.|[How to: Enable and Disable Edit and Continue](../Topic/How%20to:%20Enable%20and%20Disable%20Edit%20and%20Continue.md)|  
 |Stop Edit and Continue from applying code changes.|[How to: Stop Code Changes](../Topic/How%20to:%20Stop%20Code%20Changes.md)|  
 |Apply edits in break mode.|[How to: Apply Edits in Break Mode with Edit and Continue](../Topic/How%20to:%20Apply%20Edits%20in%20Break%20Mode%20with%20Edit%20and%20Continue.md)|  
@@ -77,9 +74,8 @@ This page provides links to documentation for the debugging features that are bu
 ## Examining Debugging Data  
  The following table lists debugging tasks involving viewing debugging data and points to their associated Help pages.  
   
-|||  
-|-|-|  
 |To|See|  
+|-|-|    
 |Use the **Registers** window to display register contents.|[How to: Use the Registers Window](../Topic/How%20to:%20Use%20the%20Registers%20Window.md)|  
 |Use the **Call Stack** window to view function or procedure calls that are currently on the stack.|[How to: Use the Call Stack Window](../Topic/How%20to:%20Use%20the%20Call%20Stack%20Window.md)|  
 |Use the **Disassembly** window to view assembly code corresponding to the instructions created by the compiler.|[How to: Use the Disassembly Window](../Topic/How%20to:%20Use%20the%20Disassembly%20Window.md)|  

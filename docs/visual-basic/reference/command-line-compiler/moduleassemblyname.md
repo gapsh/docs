@@ -46,9 +46,8 @@ Specifies the name of the assembly that this module will be a part of.
   
 ## Arguments  
   
-|||  
-|-|-|  
 |Term|Definition|  
+|-|-|  
 |`assembly_name`|The name of the assembly that this module will be a part of.|  
   
 ## Remarks  
