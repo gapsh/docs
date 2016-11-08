@@ -48,7 +48,7 @@ The try-catch statement consists of a `try` block followed by one or more `catch
   
  The `try` block contains the guarded code that may cause the exception. The block is executed until an exception is thrown or it is completed successfully. For example, the following attempt to cast a `null` object raises the <xref:System.NullReferenceException> exception:  
   
-```c#  
+```cs  
 object o2 = null;  
 try  
 {  
@@ -58,7 +58,7 @@ try
   
  Although the `catch` clause can be used without arguments to catch any type of exception, this usage is not recommended. In general, you should only catch those exceptions that you know how to recover from. Therefore, you should always specify an object argument derived from <xref:System.Exception?displayProperty=fullName> For example:  
   
-```c#  
+```cs  
 catch (InvalidCastException e)   
 {  
 }  
@@ -68,7 +68,7 @@ catch (InvalidCastException e)
   
  Using `catch` arguments is one way to filter for the exceptions you want to handle.  You can also use a predicate expression that further examines the exception to decide whether to handle it.  If the predicate expression returns false, then the search for a handler continues.  
   
-```c#  
+```cs  
 catch (ArgumentException e) when (e.ParamName == “…”)  
 {  
 }  
@@ -78,7 +78,7 @@ catch (ArgumentException e) when (e.ParamName == “…”)
   
  A [throw](../../../csharp/language-reference/keywords/throw.md) statement can be used in a `catch` block to re-throw the exception that is caught by the `catch` statement. The following example extracts source information from an <xref:System.IO.IOException> exception, and then throws the exception to the parent method.  
   
-```c#  
+```cs  
 catch (FileNotFoundException e)  
 {  
     // FileNotFoundExceptions are handled here.  
@@ -95,7 +95,7 @@ catch (IOException e)
   
  You can catch one exception and throw a different exception. When you do this, specify the exception that you caught as the inner exception, as shown in the following example.  
   
-```c#  
+```cs  
 catch (InvalidCastException e)   
 {  
     // Perform some action here, and then throw a new exception.  
@@ -105,7 +105,7 @@ catch (InvalidCastException e)
   
  You can also re-throw an exception when a specified condition is true, as shown in the following example.  
   
-```c#  
+```cs  
   
 catch (InvalidCastException e)  
 {  
@@ -122,7 +122,7 @@ catch (InvalidCastException e)
   
  From inside a `try` block, initialize only variables that are declared therein. Otherwise, an exception can occur before the execution of the block is completed. For example, in the following code example, the variable `n` is initialized inside the `try` block. An attempt to use this variable outside the `try` block in the `Write(n)` statement will generate a compiler error.  
   
-```c#  
+```cs  
 static void Main()   
 {  
     int n;  

@@ -64,7 +64,7 @@ You can use the <xref:Microsoft.VisualBasic.PowerPacks.OvalShape> control to dra
     Imports Microsoft.VisualBasic.PowerPacks  
     ```  
   
-    ```c#  
+    ```cs  
     using Microsoft.VisualBasic.PowerPacks;  
     ```  
   
