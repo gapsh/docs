@@ -604,7 +604,7 @@
 ##### [<value>](csharp/programming-guide/xmldoc/value.md)
 #### [Processing the XML File](csharp/programming-guide/xmldoc/processing-the-xml-file.md)
 #### [Delimiters for Documentation Tags](csharp/programming-guide/xmldoc/delimiters-for-documentation-tags.md)
-#### [How to: Use the XML Documentation Features](csharp/programming-guide/unsafe-code-pointers/how-to-use-the-xml-documentation-features.md)
+#### [How to: Use the XML Documentation Features](csharp/programming-guide/xmldoc/how-to-use-the-xml-documentation-features.md)
 
 ## [Language Reference](csharp/language-reference/index.md)
 ### [C# Keywords](csharp/language-reference/keywords/index.md)
@@ -1010,7 +1010,7 @@
 #### [Compiler Warning (level 4) CS1591](csharp/language-reference/compiler-messages/cs1591.md)
 #### [Compiler Warning (level 4) CS1610](csharp/language-reference/compiler-messages/cs1610.md)
 ### [C# Language Specification](csharp/language-reference/language-specification.md)
-## [Walkthroughs](chsharp/walkthroughs.md)
+## [Walkthroughs](csharp/walkthroughs.md)
 
 <!-- End of C# Content -->
 
